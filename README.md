@@ -1,6 +1,6 @@
 # live-content-tracker
 
-Welcome to the zip files of my live content twitter tracker that I worked on over the summer, which was the first time I created a front end application
+Welcome to the zip files of my live content twitter tracker that I worked on over the summer, which was the first time I created a front end application.
 
 UI is for the front end files and service is the back end. 
 
